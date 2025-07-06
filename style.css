@@ -720,7 +720,7 @@ footer .copyright{
     margin-bottom: 8px;
 }
 
-@media (max-width:599px) {
+@media (max-width:600px) {
     #navbar{
         margin-left: 0;
         display: flex;
